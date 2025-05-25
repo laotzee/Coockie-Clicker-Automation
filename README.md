@@ -1,4 +1,4 @@
-# Coockie-Clicker-Automation
+# Cookie-Clicker-Automation
 
 The script launches https://cookieclicker.gg/, clicks the big cookies while buying upgrades or products once available.
 
